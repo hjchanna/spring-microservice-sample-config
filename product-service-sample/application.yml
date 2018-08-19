@@ -1,0 +1,3 @@
+server:
+  #server.port will override by VM args
+  port: 8087
